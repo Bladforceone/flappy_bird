@@ -1,0 +1,21 @@
+# ninja log v6
+2	54	7707506751710977	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	3cdb5449d93daa21
+2	54	7707506751710977	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	3cdb5449d93daa21
+55	12664	7707506877810476	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	963360dd18a03fdd
+55	12664	7707506877810476	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	963360dd18a03fdd
+12664	14341	7707506877865324	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	e19a6137008a02fa
+12664	14341	7707506877865324	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	e19a6137008a02fa
+14341	14395	7707506895124834	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	82919b4cfc2075d0
+14341	14395	7707506895124834	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	82919b4cfc2075d0
+14395	14462	7707506895769371	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	da01ba94e6d4e863
+14395	14462	7707506895769371	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	da01ba94e6d4e863
+14462	14533	7707506896492199	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	f2f25993fda73f57
+14462	14533	7707506896492199	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	f2f25993fda73f57
+14533	14599	7707506897135915	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	32bdc3a64c7b82ca
+14533	14599	7707506897135915	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	32bdc3a64c7b82ca
+14599	14688	7707506898018237	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	188784e9c65898f1
+14599	14688	7707506898018237	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	188784e9c65898f1
+14688	14768	7707506898831793	CMakeFiles/sfml-populate-complete	d9f4171f5c40fd34
+14688	14768	7707506898831793	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d9f4171f5c40fd34
+14688	14768	7707506898831793	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	d9f4171f5c40fd34
+14688	14768	7707506898831793	C:/Users/bladf/OneDrive/Рабочий стол/курсач заказ/coursework_flappy_bird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d9f4171f5c40fd34
